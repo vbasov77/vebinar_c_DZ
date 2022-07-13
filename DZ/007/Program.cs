@@ -3,7 +3,6 @@
 
 Console.WriteLine("Введите число.");
 int number = Convert.ToInt32(Console.ReadLine());
-
 if (number == 6 | number == 7)
 {
     Console.WriteLine("{0}->{1}", number, "Да");

@@ -1,4 +1,6 @@
-﻿int count = 0;
+﻿//Про друзей и собаку
+
+int count = 0;
 int dist = 10000;
 int first_man = 1;
 int second_man = 2;
