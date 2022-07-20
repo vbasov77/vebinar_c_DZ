@@ -18,5 +18,5 @@ if (number!.Length == 5)
 }
 else
 {
-    Console.WriteLine($"{number} - Не пятизначное число");
+    Console.WriteLine("{0}->{1}", number, " Не пятизначное число");
 }
